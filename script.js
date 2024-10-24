@@ -29,7 +29,7 @@ function convertToRoman(num) {
     return romanNumeral;
 }
 
-console.log(convertToRoman(num));
+alert(convertToRoman(num));
 
 
 
